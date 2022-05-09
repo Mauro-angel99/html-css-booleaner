@@ -2,6 +2,7 @@ body{
     margin: 0;
 }
 
+
 header{
     height: 180px;
     background-color: dodgerblue;
@@ -20,3 +21,83 @@ header{
 #booleaner{ 
     font-size: 50px;
 }
+
+
+main{
+    padding: 0px;
+}
+
+h1{
+    font-size: 50px;
+    margin: 50px 0px 0px 0px;
+}
+
+#scritto{
+    padding: 0px 0px 50px 0px;
+    color: grey;
+}
+
+
+#autore{
+    color: dodgerblue;
+}
+
+figure{
+    margin: 0px;
+}
+
+#descrizione{
+    margin: 0px;
+    font-size: 10px;
+}
+
+
+.giallo{
+    background-color: yellow;
+}
+
+ul{
+    padding: 20px;
+}
+
+
+table{
+    font-size: 14px;
+    text-align: left;
+    
+
+}
+
+
+thead{
+    background-color:blue;
+    color: white;
+}
+
+
+.colonne-1-2{
+    width: 25%;
+}
+
+
+.righa{
+    background-color: aqua;
+}
+
+
+
+footer{
+    padding: 0px;
+}
+
+
+h4{
+    color: grey;
+}
+
+
+
+
+
+
+
